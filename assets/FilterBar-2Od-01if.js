@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DyZJNswf.js";var t=e();function n({children:e}){return(0,t.jsx)(`div`,{className:`bg-white border border-slate-200 rounded-xl p-4 flex flex-wrap items-center gap-3`,children:e})}export{n as t};
